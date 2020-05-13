@@ -15,4 +15,4 @@ The first homework consisted in writing a small script to retrieve sequences tha
     
 # asbconverter
 
-This is a conversor. It will convert a fasta file into a nexus file.
+This is a converter. It will convert a fasta file into a nexus file.
