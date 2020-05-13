@@ -12,3 +12,7 @@ The first homework consisted in writing a small script to retrieve sequences tha
     Takes user input as command line arguments
     Uses the "history" API feature
     The result has to be in FASTA format and sent to STDOUT
+    
+# asbconverter
+
+This is a conversor. It will convert a fasta file into a nexus file.
