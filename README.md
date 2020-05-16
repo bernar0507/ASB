@@ -20,14 +20,14 @@ This is a converter. To know how to use the converter, check the README2.md in a
 # Assignment 01
 
 In this assignment me and my group had to:
-    - Search the bibliography for a research paper that performs phylogenetic analyses;
-    -Understand the proposed biological problem;
-    -Obtain the sequences used in that research paper;
-    -Reproduce (or improve upon) the analyses therein performed (you do not have to use all the methos present in the original paper,    only -those you deem more important);
-    -Interpret the obtained phylogenetic trees;
-    -Compare your results to those of the original paper;
-    -Make sure your analyses are reproducible;
-    -Write a report on what you did;
+    Search the bibliography for a research paper that performs phylogenetic analyses;
+    Understand the proposed biological problem;
+    Obtain the sequences used in that research paper;
+    Reproduce (or improve upon) the analyses therein performed (you do not have to use all the methos present in the original paper,    only -those you deem more important);
+    Interpret the obtained phylogenetic trees;
+    Compare your results to those of the original paper;
+    Make sure your analyses are reproducible;
+    Write a report on what you did;
     
 The paper choosed by us was the "Evolution of the mitochondrial genome in snakes: Gene
 rearrangements and phylogenetic relationships" written by Jie Yan, Hongdan Li and Kaiya Zhou*
