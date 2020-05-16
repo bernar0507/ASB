@@ -19,7 +19,7 @@ This is a converter. To know how to use the converter, check the README2.md in a
 
 # Assignment 01
 
-In this assignment me and my group had to:
+In the first assignment of this curricular unit me and my group had to:
     Search the bibliography for a research paper that performs phylogenetic analyses;
     Understand the proposed biological problem;
     Obtain the sequences used in that research paper;
