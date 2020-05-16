@@ -17,7 +17,7 @@ The first homework consisted in writing a small script to retrieve sequences tha
 
 This is a converter. To know how to use the converter, check the README2.md in asbconverter folder.
 
-# Assignment 01
+# Assignment 1
 
 In the first assignment of this curricular unit me and my group had to:
     Search the bibliography for a research paper that performs phylogenetic analyses;
