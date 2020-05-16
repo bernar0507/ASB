@@ -23,7 +23,7 @@ In the first assignment of this curricular unit me and my group had to:
     Search the bibliography for a research paper that performs phylogenetic analyses;
     Understand the proposed biological problem;
     Obtain the sequences used in that research paper;
-    Reproduce (or improve upon) the analyses therein performed (you do not have to use all the methos present in the original paper,         only -those you deem more important);
+    Reproduce (or improve upon) the analyses therein performed;
     Interpret the obtained phylogenetic trees;
     Compare your results to those of the original paper;
     Make sure your analyses are reproducible;
