@@ -1,6 +1,6 @@
 # What is this?
 
-This is a repository for the homeworks of the curricular unit ASB (Análise de Sequências Biológicas) of my Bioinformatics degree.
+This is a repository for the homeworks of the curricular unit Analysis of Biological Sequences of my Bioinformatics degree.
 
 # 1st Homework
 
