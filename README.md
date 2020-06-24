@@ -32,3 +32,19 @@ In the first assignment of this curricular unit me and my group had to:
 The paper choosed by us was the "Evolution of the mitochondrial genome in snakes: Gene
 rearrangements and phylogenetic relationships" written by Jie Yan, Hongdan Li and Kaiya Zhou*
 in 2008.
+
+# Assignment 2
+
+In this second assignment of this curricular unit me and my group had the main objective 
+to solve a discussion that was being held by Botanists regarding
+a certain plant population that had unique phenotypic traits, which they called "GreenLeaf".
+This species, at first, had undistinguishable differences to another plant named “BlackLeaf”.
+For this reason, some said it was a new species and others claimed to be the same in agreement
+with the already said small differences being irrelevant to them. To overcome this argument,
+they used many populations from the “BlackLeaf” species and two “GreenLeaf” individuals,
+using RAD-Seq.
+In order to solve this same problem, our team planned an approach. Considering the
+learnt sequencing analysis techniques during our classes, we chose to apply High Throughput
+Sequencing (HTS) methods.
+
+
